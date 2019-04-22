@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1555851072 source:/home/choir/Documents/praktikum/KomGraf/tugasAcc/main.c
+	<GLUT/glut.h>
+	<GL/glut.h>
+
